@@ -130,6 +130,12 @@
     "expires": "2030-11-15T18:30:00Z",
     "user": "seb",
     "admin": true
+  },
+   {
+    "key": "4922148396887354013",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jon",
+    "admin": true
    }
 ]
 
